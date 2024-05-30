@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted ",
+      "author": "yoshi",
+      "id": "2"
+    },
+    {
+      "id": "f16e",
+      "title": "dasd",
+      "body": "asdas",
+      "author": "mario"
+    },
+    {
+      "id": "3e6d",
+      "title": "huh",
+      "body": "huh",
+      "author": "mario"
+    }
+  ]
+}
